@@ -1,6 +1,6 @@
 # Repositório do Prof. Rômulo Criston
 
-<img align="right" src="img/CSS3_300.png" width="130"><img align="right" src="img/html5.png" width="130">
+<img align="right" src="img/CSS3_300.png" width="140"><img align="right" src="img/html5.png" width="130">
 
 ## HTML5 e CSS3
 
@@ -12,7 +12,7 @@ Curso em Vídeo e Front-End (Danki Code).
 
 * [Exercícios e desafios das aulas Front-End Danki Code](https://github.com/romulocriston/html5-css3/tree/master/danki%20code/webmaster%20front-end)
 
-<img align="right" src="img/javaScript.png" width="130">
+<img align="right" src="img/javaScript.png" width="110">
 
 ## JavaScript
 
