@@ -8,9 +8,9 @@ Exercícios das **aulas de HTML5 e CSS3**.
 
 Curso em Vídeo e Front-End (Danki Code).
 
-* [Exercícios e desafios das aulas curso em vídeo](https://github.com/romulocriston/html5-css3/tree/master/cursoemvideo/html-css)
+* [Exercícios e desafios das aulas do Curso em Vídeo](https://github.com/romulocriston/html5-css3/tree/master/cursoemvideo/html-css)
 
-* [Exercícios e desafios das aulas Front-End Danki Code](https://github.com/romulocriston/html5-css3/tree/master/danki%20code/webmaster%20front-end)
+* [Exercícios e desafios das aulas de Front-End Danki Code](https://github.com/romulocriston/html5-css3/tree/master/danki%20code/webmaster%20front-end)
 
 
 ## JavaScript
@@ -32,8 +32,8 @@ Exercícios das **aulas de JavaScript**.
 
 Exercícios das **aulas de PHP**.
 
-* [Exercícios e desafios das aulas PHP Curso em Vídeo](https://github.com/romulocriston/html5-css3/tree/master/cursoemvideo/html-css)
+* [Exercícios e desafios das aulas PHP Curso em Vídeo](https://github.com/romulocriston/php7/tree/master/cursoemvideo/PHP)
 
-* [Exercícios e desafios das aulas PHP Danki Code](https://github.com/romulocriston/html5-css3/tree/master/danki%20code/webmaster%20front-end)
+* [Exercícios e desafios das aulas PHP Danki Code](https://)
 
 
