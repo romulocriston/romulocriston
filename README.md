@@ -24,7 +24,7 @@ Exercícios das **aulas de JavaScript**.
 
 * [Exercícios e desafios das aulas JavaScript Udemy](https://)
 
-<img align="right" src="img/php7.png" width="100" height="130">
+<img align="right" src="img/php7.png" width="100" height="100">
 
 ## PHP7
 
