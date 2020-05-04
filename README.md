@@ -12,7 +12,6 @@ Curso em Vídeo e Front-End (Danki Code).
 
 * [Exercícios e desafios das aulas Front-End Danki Code](https://github.com/romulocriston/html5-css3/tree/master/danki%20code/webmaster%20front-end)
 
----
 
 <img align="right" src="img/javaScript.png" width="130">
 
@@ -26,7 +25,6 @@ Exercícios das **aulas de JavaScript**.
 
 * [Exercícios e desafios das aulas JavaScript Udemy](https://)
 
----
 
 <img align="right" src="img/php7.png" width="130" height="180">
 
