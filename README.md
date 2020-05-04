@@ -1,7 +1,4 @@
-<img align="center" src="img/rc_logo.png">
 # Repositório do Prof. Rômulo Criston
-
-
 
 ## HTML5 e CSS3
 
