@@ -1,6 +1,6 @@
 # Repositório do Prof. Rômulo Criston
 
-<img align="right" src="img/CSS3_300.png" width="140"><img align="right" src="img/html5.png" width="130">
+<img align="right" src="img/CSS3_300.png" width="130"><img align="right" src="img/html5.png" width="130">
 
 ## HTML5 e CSS3
 
@@ -24,7 +24,7 @@ Exercícios das **aulas de JavaScript**.
 
 * [Exercícios e desafios das aulas JavaScript Udemy](https://)
 
-<img align="right" src="img/php7.png" width="100" height="130">
+<img align="right" src="img/php7.png" width="110">
 
 ## PHP7
 
